@@ -1,5 +1,5 @@
 # Predicting-House-Sale-Prices-With-Messy-Data
-[Click here to see the Jupyter Notebook](Predicting+Housing+Sale+Prices+II.ipynb)
+[Click here to see the Jupyter Notebook](Predicting+House+Sale+Prices+II.ipynb)
 
 This project focuses on using various predictor models to maximize predictability of Housing Prices
 
@@ -14,4 +14,4 @@ The goal for this project is to use regression analysis in various forms of pyth
 - determine what primary independent variables (house features) of the total 79 available are that best can be used as a predictor estimate for house sale price.
 - determine how good the predictor equation is as a fit via various calculated values: RMSE (root mean square error), R-Squared value).
 
-[Click here to see the pdf file](Predicting+Housing+Sale+Prices.pdf) (if you would like to donwload this file).
+[Click here to see the pdf file](Predicting+House+Sale+Prices.pdf) (if you would like to donwload this file).
